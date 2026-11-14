@@ -1,6 +1,6 @@
-<p align="center"><img src="media/banner.png" alt="Kinetra: the AI smart-gym platform, with a public website, a member app and an operations console" width="100%"></p>
+<p align="center"><img src="media/banner.png" alt="Kinetra (AI Smart Gym Platform): a public website, a member app and an operations console" width="100%"></p>
 
-# Kinetra
+# Kinetra (AI Smart Gym Platform)
 
 **The AI smart-gym platform: one smart machine, an AI coach, and the software to run the business behind it.** Members train on a connected machine at home or at the studio, check in each morning and get a daily health score, and talk to an AI coach that builds their workouts. Your team runs sales, installations, memberships, coaching and the machine fleet from one operations console, and a public website brings in the leads.
 
@@ -8,7 +8,7 @@
 
 **Showcase website:** https://rana537omar.github.io/kinetra-showcase/
 
-<p align="center"><a href="https://wa.me/201208562225?text=Hello%2C%20I%20saw%20the%20Kinetra%20smart-gym%20platform%20and%20I%20would%20like%20to%20get%20the%20full%20system%20and%20the%20source%20code."><img src="media/whatsapp-button.svg" alt="Get the full system and source code: chat on WhatsApp, +20 120 856 2225" width="380"></a></p>
+<p align="center"><a href="https://wa.me/201208562225?text=Hello%2C%20I%20saw%20Kinetra%20(AI%20Smart%20Gym%20Platform)%20and%20I%20would%20like%20to%20get%20the%20full%20system%20and%20the%20source%20code."><img src="media/whatsapp-button.svg" alt="Get the full system and source code: chat on WhatsApp, +20 120 856 2225" width="380"></a></p>
 
 ## Demo video
 
@@ -83,7 +83,7 @@ All names, members, leads, orders and figures in these screenshots and the video
 
 Want Kinetra for your gym, studio or fitness-equipment business, a live demo, or the complete source code? Message me on WhatsApp: **+20 120 856 2225**.
 
-<p align="center"><a href="https://wa.me/201208562225?text=Hello%2C%20I%20saw%20the%20Kinetra%20smart-gym%20platform%20and%20I%20would%20like%20to%20get%20the%20full%20system%20and%20the%20source%20code."><img src="media/whatsapp-button.svg" alt="Get the full system and source code: chat on WhatsApp, +20 120 856 2225" width="380"></a></p>
+<p align="center"><a href="https://wa.me/201208562225?text=Hello%2C%20I%20saw%20Kinetra%20(AI%20Smart%20Gym%20Platform)%20and%20I%20would%20like%20to%20get%20the%20full%20system%20and%20the%20source%20code."><img src="media/whatsapp-button.svg" alt="Get the full system and source code: chat on WhatsApp, +20 120 856 2225" width="380"></a></p>
 
 ## License
 
